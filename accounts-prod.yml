@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related web APIs "
+  message: "Welcome to EazyBank accounts related web22 APIs "
   contactDetails:
     name: "John Doe - Prod"
     email: "{cipher}839280e669f52f8fd084b2c24fa9e9d21ee40c039267cd1bed1fa6be21b1e924553829073d63aa3563f721a63b6deac9"
